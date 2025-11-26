@@ -3,7 +3,7 @@
 
 ---
 
-## ** Integrantes**
+##  Integrantes
 - **Anthony Caldas**
 - **Ibrahim Angulo**
 - **Cristopher Farias**
