@@ -1,5 +1,4 @@
 # 🎮 **LEGENDS OF AETHER**
-> Juego narrativo por consola basado en principios de Programación Orientada a Objetos (POO)
 
 ---
 
