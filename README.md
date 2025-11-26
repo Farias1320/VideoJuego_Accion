@@ -17,6 +17,7 @@
 |----------|--------|
 | `Jugador` | Representa al usuario. Puede atacar, curarse, usar objetos y ganar experiencia. |
 | `Personaje` | Clase abstracta que define atributos y acciones comunes de un personaje. |
+| `Main` | Es la clase principal, el cerebro. |
 | `Objeto` | Elementos que se pueden recolectar y usar. |
 | `CriaturaEnemiga` | Enemigos que atacan al jugador durante la exploración. |
 | `Nivel` | Lugar que contiene objetos y criaturas. |
