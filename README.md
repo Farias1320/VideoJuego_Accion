@@ -55,13 +55,13 @@ Con esto, el código oculta la complejidad y solo expone los comportamientos nec
 
 El programa incorpora tres enumeraciones para clasificar elementos del juego, cada una con propiedades y métodos propios:
 
-🔸 `TipoPersonaje`  
+- `TipoPersonaje`  
 Define el rol narrativo de un personaje (Sanador, Guerrero, Mago, etc.), junto con su descripción.
 
-🔸 `TipoCriatura`  
+- `TipoCriatura`  
 Representa la amenaza y el comportamiento de enemigos.
 
-🔸 `RarezaObjeto`  
+- `RarezaObjeto`  
 Clasifica los objetos según su valor y probabilidad de aparición (Común, Raro, Épico y Legendario).
 
 Cada enum contiene:  
